@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Registration App</string>
+    <string name="intro">Welcome to Adventure Learning Club!</string>
+    <string name="heading">Registration Form</string>
+    <string name="full_name">Full Name:</string>
+    <string name="gender">Gender:</string>
+    <string name="school">School:</string>
+    <string name="phoneHint">91234567</string>
+    <string name="emailHint">nicholas@gmail.com</string>
+    <string name="schoolHint">Republic Poly</string>
+    <string name="idHint">18012312</string>
+    <string name="regBtn">register</string>
+    <string name="radio2">Female</string>
+    <string name="radio1">Male</string>
+    <string name="fNameHint">First Name</string>
+    <string name="e_mail">E-mail</string>
+    <string name="phone">Phone:</string>
+    <string name="last_name">Last Name</string>
+    <string name="student_id">Student ID:</string>
+</resources>
